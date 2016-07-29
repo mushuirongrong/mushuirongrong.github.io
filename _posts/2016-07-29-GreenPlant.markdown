@@ -4,7 +4,7 @@ title: Green Plant
 date: 2016-07-29T14:37:44.000Z
 categories: update
 ---
-<img src="/images/fulls/plant.jpg.jpg" class="fit image">
+<img src="/images/fulls/plant.jpg" class="fit image">
 原来绿色的生命发出新芽是这么让人心情愉悦的事情
 以前老妈在家里精心料理的小植物开了花发了芽老妈都会惊喜万分开心的不得了
 我当时还很不屑
